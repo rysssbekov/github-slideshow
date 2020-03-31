@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Молодой босс но я звезда
 Use the left arrow to go back!
